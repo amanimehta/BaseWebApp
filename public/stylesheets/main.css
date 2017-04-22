@@ -1,5 +1,6 @@
 
 body {
+	padding-top: 70px;
   background-color: #d0e4fe;
   text-align: center;
 }
@@ -18,3 +19,12 @@ p {
   height: 140px;
   margin-top: 20px;
 }
+.my-class {
+	background-color: #3339b7;
+}
+.hello-world-color {color: #3db4c7 !important;
+
+}
+
+.project-image {width: 128px}
+.project-body  {text-align: left;}
